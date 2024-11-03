@@ -47,3 +47,9 @@ https://github.com/ccatterina/plasmusic-toolbar AUR
 https://store.kde.org/p/1425426/ with sweet icons for floorp    
 
 source for fastfetch dots: https://www.reddit.com/r/unixporn/comments/1fxa1ci/first_time_manually_configuring_fastfetch_kde/
+
+https://www.gnome-look.org/p/1197198
+
+https://github.com/mozilla/Fira
+
+https://github.com/ryanoasis/nerd-fonts
