@@ -38,6 +38,8 @@ slightly edited pastel powerline theme
 
 https://github.com/luisbocanegra/plasma-panel-colorizer AUR  
 
+ALL OTHER OVERWRITES ARE IN THE REPO
+
 https://github.com/ccatterina/plasmusic-toolbar AUR  
 
 https://store.kde.org/p/1425426/ with sweet icons for floorp    
