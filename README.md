@@ -28,6 +28,8 @@ https://catppuccin.com/ports :
 
 krita, yakuake/konsole, kde, ulauncher, kitty, dark reader, firefox(floorp), nightab, btop++, nvim, discord, heroic, obsidian. non AUR
 
+https://www.gnome-look.org/p/1715554/ Just for GTK4 apps, copy everything in the themes gtk 4 folder to ~/.config/gtk-4.0
+
 https://github.com/paulmcauley/klassy  
 window borders and app style, NOT plasma style, AUR  
 
