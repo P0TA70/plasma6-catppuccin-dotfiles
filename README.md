@@ -1,16 +1,27 @@
 # plasma6-catppuccin-dotfiles 
 
 OS: EndeavourOS with cachy repos
+
 WM: KWin
+
 Launcher: Ulauncher
+
 Panel/dock: Plasma panels with panel-colorizer
+
 Theme: catppuccin + klassy
+
 Terminal: kitty
+
 Shell: fish w/ starship prompt
+
 Terminal utilities: fastfetch, btop++, nvim (w/ lazyvim) 
+
 Browser: Floorp w/ nighttab
+
 Icons: BeautyLine
+
 cursors: Bibata modern ice
+
 
 
 https://catppuccin.com/ports :   
