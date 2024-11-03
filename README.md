@@ -22,6 +22,8 @@ Icons: BeautyLine
 
 cursors: Bibata modern ice
 
+Font: Fira Mono for apps/desktop and FiraCode nerdfont for terminal
+
 ------------------------------------------------------------X------------------------------------------------------------
 
 https://catppuccin.com/ports :   
