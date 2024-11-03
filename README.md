@@ -1,13 +1,26 @@
-# plasma6-catppuccin-dotfiles  
+# plasma6-catppuccin-dotfiles 
+
+OS: EndeavourOS with cachy repos
+WM: KWin
+Launcher: Ulauncher
+Panel/dock: Plasma panels with panel-colorizer
+Theme: catppuccin + klassy
+Terminal: kitty
+Shell: fish w/ starship prompt
+Terminal utilities: fastfetch, btop++, nvim (w/ lazyvim) 
+Browser: Floorp w/ nighttab
+Icons: BeautyLine
+cursors: Bibata modern ice
+
 
 https://catppuccin.com/ports :   
 
-krita, yakuake, kde, konsole, cursors, dark reader, firefox, nightab, btop++, nvim, discord, heroic, obsidian, all manually installed  
+krita, yakuake/konsole, kde, ulauncher, kitty, dark reader, firefox(floorp), nightab, btop++, nvim, discord, heroic, obsidian. non AUR
 
 https://github.com/paulmcauley/klassy  
 window borders and app style, NOT plasma style, AUR  
 
-https://starship.rs   
+https://starship.rs   with fish shell.
 slightly edited pastel powerline theme  
 
 https://github.com/luisbocanegra/plasma-panel-colorizer AUR  
